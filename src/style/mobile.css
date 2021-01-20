@@ -1,0 +1,35 @@
+header {
+    height: 45vh;
+}
+header .text {
+    width: 275px;
+}
+header .text h1 {
+    font-size: 22px;
+    font-weight: 200;
+}
+header .text h2 {
+    font-size: 22px;
+    font-weight: 600;
+}
+header .text p {
+    margin-top: 15px;
+}
+main {
+    width: 100vw;
+    display: block;
+    height: 1050px;
+}
+
+main .supervisor, .middle_boxes, .calculator {
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+main .calculator {
+    margin-bottom: 40px;
+}
+main .middle_boxes {
+    width: 350px;
+    height: 440px;
+}
